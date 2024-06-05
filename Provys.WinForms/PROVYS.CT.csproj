@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Title>Provys</Title>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Provys</AssemblyName>
+    <ApplicationIcon>Provys.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <Configurations>Debug;Release;LibDebug</Configurations>
+    <PlatformTarget>x86</PlatformTarget>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <!-- System References -->
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+    <PackageReference Include="LiteDB" Version="4.1.1" />
+    <PackageReference Include="MessagePack" Version="1.7.3" />
+    <PackageReference Include="System.ValueTuple" Version="4.0.3" />
+    <PackageReference Include="Microsoft.Practices.EnterpriseLibrary" Version="6.0.1304" />
+    <PackageReference Include="EPPlus" Version="4.0.5" />
+    <PackageReference Include="FastMember" Version="1.1.0" />
+    <PackageReference Include="NAudio" Version="1.7.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="PreviewHandlers" Version="1.0.0" />
+    <PackageReference Include="ScintillaNET" Version="3.6.3" />
+    <PackageReference Include="Oracle.DataAccess" Version="4.112.2" />
+    <PackageReference Include="ExceptionReporter.WinForms" Version="2.1.2" />
+    <PackageReference Include="Win32Mapi" Version="1.0.0" />
+    <PackageReference Include="Microsoft.WindowsAPICodePack" Version="1.1.0" />
+    <PackageReference Include="Microsoft.WindowsAPICodePack.Shell" Version="1.1.0" />
+    <PackageReference Include="DirectShowLib-2005" Version="2.1.0" />
+    <PackageReference Include="HtmlRenderer" Version="1.5.0" />
+    <PackageReference Include="HtmlRenderer.WinForms" Version="1.5.0" />
+    <PackageReference Include="CommandLine" Version="1.9.71" />
+    <PackageReference Include="SqlParser" Version="1.0.0" />
+    <PackageReference Include="PaintControlsLibrary" Version="1.0.0" />
+    <PackageReference Include="MediaInfoDotNet" Version="0.7.4694" />
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="12.0.0" />
+    <PackageReference Include="Microsoft.Office.Interop.Word" Version="12.0.0" />
+    <PackageReference Include="Provys.ReportingStudioIntegration" Version="1.0.0" />
+    <PackageReference Include="Provys.Reports" Version="1.15.0" />
+    <PackageReference Include="DotNetZipLib" Version="1.9.1" />
+    <PackageReference Include="Saxon9HE" Version="9.6.0" />
+    <PackageReference Include="Vlc.DotNet.Core" Version="2.1.134" />
+  </ItemGroup>
+</Project>
