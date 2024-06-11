@@ -31,6 +31,51 @@
     <PackageReference Include="AutoMapper" Version="10.1.1" />
     <PackageReference Include="BitMiracle.LibTiff.NET" Version="2.4.649" />
     <PackageReference Include="CommandLineParser" Version="2.9.1" />
+    <PackageReference Include="DevExpress.BonusSkins.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Charts.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.CodeParser.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Data.Desktop.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Data.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.DataAccess.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.DataAccess.v23.1.UI" Version="23.1.6" />
+    <PackageReference Include="DevExpress.DataVisualization.v23.1.Core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Diagram.v23.1.Core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Drawing.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Images.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Office.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Pdf.v23.1.Core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Pdf.v23.1.Drawing" Version="23.1.6" />
+    <PackageReference Include="DevExpress.PivotGrid.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Printing.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.RichEdit.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Sparkline.v23.1.Core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.SpellChecker.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Spreadsheet.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.TreeMap.v23.1.Core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Utils.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.Utils.v23.1.UI" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraBars.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraCharts.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraCharts.v23.1.UI" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraCharts.v23.1.Wizard" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraDiagram.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraEditors.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraGrid.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraLayout.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraNavBar.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraPivotGrid.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraPrinting.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraRichEdit.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraScheduler.v23.1.core.desktop" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraScheduler.v23.1.core" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraScheduler.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraScheduler.v23.1.Extensions" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraSpellChecker.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraSpreadsheet.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraTreeList.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraTreeMap.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraVerticalGrid.v23.1" Version="23.1.6" />
+    <PackageReference Include="DevExpress.XtraWizard.v23.1" Version="23.1.6" />
     <PackageReference Include="DirectShowLib.Standard" Version="2.1.0" />
     <PackageReference Include="EPPlusFree" Version="4.5.3" />
     <PackageReference Include="ExceptionReporter.NET" Version="4.0.2" />
@@ -75,9 +120,26 @@
     <PackageReference Include="ProDotNetZip" Version="1.17.0" />
     <PackageReference Include="fernandreu.ScintillaNET" Version="4.2.0" />
     <PackageReference Include="SimpleMapi" Version="1.0.0" />
+    <PackageReference Include="System.Buffers" Version="4.6.28619" />
+    <PackageReference Include="System.Collections.Immutable" Version="6.0.0" />
+    <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="8.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.5.1" />
+    <PackageReference Include="System.Memory" Version="4.6.31308" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.6.26515" />
+    <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="6.0.0" />
+    <PackageReference Include="System.Security.AccessControl" Version="6.0.29" />
+    <PackageReference Include="System.Security.Permissions" Version="8.0.0" />
+    <PackageReference Include="System.Security.Principal.Windows" Version="5.0.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="8.0.0" />
+    <PackageReference Include="System.Text.Encodings.Web" Version="8.0.0" />
+    <PackageReference Include="System.Text.Json" Version="8.0.3" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.6.28619" />
+    <PackageReference Include="System.ValueTuple" Version="4.6.26515" />
+    <PackageReference Include="System.Windows.Forms" Version="4.8.9037" />
     <PackageReference Include="TraceTool" Version="13.0.1" />
     <PackageReference Include="Vlc.DotNet.Core" Version="3.1.0" />
     <PackageReference Include="Vlc.DotNet.Core.Interops" Version="3.1.0" />
     <PackageReference Include="Vlc.DotNet.Forms" Version="3.1.0" />
+    <PackageReference Include="WindowsFormsIntegration" Version="4.8.9037" />
   </ItemGroup>
 </Project>
