@@ -117,7 +117,7 @@
     <PackageReference Include="Microsoft.WindowsAPICodePack.ShellExtensions" Version="1.0.0" />
     <PackageReference Include="NAudio" Version="1.7.2" />
     <PackageReference Include="Oracle.DataAccess" Version="4.122.18" />
-    <PackageReference Include="ProDotNetZip" Version="1.17.0" />
+    <PackageReference Include="ProDotNetZip" Version="1.19.0" />
     <PackageReference Include="fernandreu.ScintillaNET" Version="4.2.0" />
     <PackageReference Include="SimpleMapi" Version="1.0.0" />
     <PackageReference Include="System.Buffers" Version="4.6.28619" />
